@@ -1,57 +1,41 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Renny Thomas, Gen AI Engineer" width="100%" />
+  <img src="assets/header.svg" width="100%" alt="Renny Thomas, Gen AI Engineer from Kerala, India. I build AI systems people can trust." />
 </p>
 
 <p align="center">
-  <a href="https://renny-thomas.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-renny--thomas.vercel.app-2563eb?style=flat-square&labelColor=0b0b0c" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/rennyt98"><img src="https://img.shields.io/badge/LINKEDIN-rennyt98-0b0b0c?style=flat-square&labelColor=2563eb" alt="LinkedIn" /></a>
-  <a href="mailto:rennythomas98@gmail.com"><img src="https://img.shields.io/badge/EMAIL-rennythomas98%40gmail.com-0b0b0c?style=flat-square&labelColor=2563eb" alt="Email" /></a>
+  <a href="https://renny-thomas.vercel.app"><img src="assets/btn-portfolio.svg" height="46" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/rennyt98"><img src="assets/btn-linkedin.svg" height="46" alt="LinkedIn" /></a>
+  <a href="mailto:rennythomas98@gmail.com"><img src="assets/btn-email.svg" height="46" alt="Email me" /></a>
 </p>
 
 ## About
 
-Gen AI Engineer from **Thiruvananthapuram, Kerala**. I graduated with a B.Tech in Information Technology from Amal Jyothi College of Engineering (2022–2026). Open to **Gen AI roles and freelance work**.
+Gen AI Engineer from **Thiruvananthapuram, Kerala**. I build agentic AI systems with Claude and LangGraph, MCP tool servers and RAG applications. B.Tech in Information Technology, Amal Jyothi College of Engineering (graduated 2026).
 
-- **VoiceStack (CareStack):** built an AI configuration assistant with Claude and LangGraph, OpenAPI tool integration, MCP servers, human-in-the-loop approvals, SSE streaming and Langfuse tracing.
-- **CareStack:** built a voice-bot testing platform with chat-based simulation and GPT-based evaluation of bot responses.
-- **Nilgiri Stores:** cloud deployment on Hetzner (Apache, HTTPS) and an SQL-grounded AI chatbot.
-- **Final-year project:** PM2.5 prediction from satellite data using Random Forest (R² 0.894 on the test set).
+## Experience
+
+<p align="center">
+  <img src="assets/experience.svg" width="100%" alt="Gen AI Engineer at VoiceStack (CareStack), Apr 2026 to Nov 2026. Product Engineer Intern at CareStack, Sep 2025 to Apr 2026. AI and Cloud Development Intern at Nilgiri Stores, May to Jul 2025. Industrial Robotics Intern at Unique World Robotics, Jun 2025. Freelance Social Media Manager at Outdoor360, Jun 2021 to Dec 2022." />
+</p>
 
 ## Stack
 
-![LangGraph](https://img.shields.io/badge/LangGraph-0b0b0c?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-0b0b0c?style=flat-square)
-![Claude SDK](https://img.shields.io/badge/Claude_SDK-2563eb?style=flat-square)
-![MCP](https://img.shields.io/badge/MCP-2563eb?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-0b0b0c?style=flat-square)
-![Langfuse](https://img.shields.io/badge/Langfuse-0b0b0c?style=flat-square)
-![Python](https://img.shields.io/badge/Python-0b0b0c?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0b0b0c?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-0b0b0c?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-0b0b0c?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-0b0b0c?style=flat-square&logo=flask&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0b0b0c?style=flat-square&logo=scikitlearn&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0b0b0c?style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB-0b0b0c?style=flat-square&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-0b0b0c?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-0b0b0c?style=flat-square&logo=nextdotjs&logoColor=white)
+<p align="center">
+  <img src="assets/stack.svg" width="100%" alt="LangGraph, LangChain, Claude SDK, MCP servers, RAG, OpenAI API, DeepSeek, Scikit-learn, Pandas, NumPy, Scrapy, Python, FastAPI, Flask, Node.js, TypeScript, MongoDB, SQL, FAISS, AWS, Hetzner Cloud, Linux, Langfuse, React.js, Flutter" />
+</p>
 
 ## Projects
 
-| | Project | Stack |
-| :-: | --- | --- |
-| 01 | [PM2.5 from satellite data](https://renny-thomas.vercel.app/work/pm25-satellite-machine-learning) | Python, Scikit-learn |
-| 02 | [AI configuration assistant (VoiceStack)](https://renny-thomas.vercel.app/work/ai-configuration-assistant-voicestack) | Claude, LangGraph, MCP |
-| 03 | [Voice-bot testing platform (CareStack)](https://renny-thomas.vercel.app/work/voice-bot-testing-platform-carestack) | LLM evals, Langfuse |
-| 04 | [AI Phone Advisor (AIPA)](https://renny-thomas.vercel.app/work/ai-phone-advisor-aipa) | RAG, FAISS |
-| 05 | [AI research agent](https://renny-thomas.vercel.app/work/ai-research-agent-tavily-deepseek) | Tavily, DeepSeek |
-| 06 | [Scraping pipeline](https://renny-thomas.vercel.app/work/web-scraping-pipeline-scrapy) | Scrapy |
-
-Animated case studies for all 10 projects are on the **[portfolio](https://renny-thomas.vercel.app)**.
-
-## Activity
+Each card opens its case study. All ten projects are on my [portfolio](https://renny-thomas.vercel.app).
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hackmanx&show_icons=true&hide_border=false&border_color=0b0b0c&bg_color=f6f5f0&title_color=2563eb&icon_color=2563eb&text_color=0b0b0c" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackmanx&layout=compact&hide_border=false&border_color=0b0b0c&bg_color=f6f5f0&title_color=2563eb&text_color=0b0b0c" alt="Top languages" />
+  <a href="https://renny-thomas.vercel.app/work/pm25-satellite-machine-learning"><img src="assets/project-01.svg" width="32%" alt="Estimating surface-level PM2.5 across Kerala with satellite data and machine learning" /></a>
+  <a href="https://renny-thomas.vercel.app/work/ai-configuration-assistant-voicestack"><img src="assets/project-02.svg" width="32%" alt="AI configuration assistant for an enterprise phone system (VoiceStack)" /></a>
+  <a href="https://renny-thomas.vercel.app/work/ai-phone-advisor-aipa"><img src="assets/project-03.svg" width="32%" alt="AI Phone Advisor (AIPA): RAG-powered smartphone recommendations" /></a>
+</p>
+
+## Contact
+
+<p align="center">
+  <a href="mailto:rennythomas98@gmail.com"><img src="assets/contact.svg" width="100%" alt="Let's build something people can trust. Email rennythomas98@gmail.com" /></a>
 </p>
