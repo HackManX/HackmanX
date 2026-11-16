@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**HackManX/HackmanX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Renny 👋
 
-Here are some ideas to get you started:
+### AI Engineer | Agentic Systems | Backend | Robotics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build AI-powered systems that solve real business problems.
+
+- 🔭 Working on AI agents and workflow automation
+- 🧠 Exploring agent orchestration and evaluation
+- 🤖 Building robotics and edge AI projects
+- ☁️ Python, FastAPI, LangGraph, React, AWS
+
+## Featured Projects
+
+### AI Configuration Copilot
+Natural-language interface for complex configuration workflows.
+
+### Business Compiler
+Converts APIs and documentation into structured capabilities.
+
+### Robotics Lab
+Exploring motion control, embedded systems and AI.
+
+## Connect
+[Portfolio](https://your-domain.com) | [LinkedIn](https://linkedin.com/in/your-profile)
