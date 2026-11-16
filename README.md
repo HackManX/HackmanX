@@ -1,76 +1,57 @@
-<!-- Animated banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0b0b0c,100:2563eb&text=Renny%20Thomas&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Gen%20AI%20Engineer%20%C2%B7%20Kerala%2C%20India&descSize=18&descAlignY=58&animation=fadeIn" alt="Renny Thomas banner" />
-</p>
-
-<!-- Typing animation -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=640&lines=I+build+AI+systems+people+can+trust;Agentic+workflows+with+Claude+%2B+LangGraph;MCP+tool+servers+in+Node.js+%2B+TypeScript;RAG+apps%2C+ML+models+and+cloud+deployments" alt="Typing animation" />
-  </a>
+  <img src="assets/header.svg" alt="Renny Thomas, Gen AI Engineer" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://renny-thomas.vercel.app"><img src="https://img.shields.io/badge/Portfolio-renny--thomas.vercel.app-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/rennyt98"><img src="https://img.shields.io/badge/LinkedIn-rennyt98-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:rennythomas98@gmail.com"><img src="https://img.shields.io/badge/Email-rennythomas98%40gmail.com-0b0b0c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=hackmanx&label=Profile+views&color=2563eb&style=for-the-badge" alt="Profile views" />
+  <a href="https://renny-thomas.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-renny--thomas.vercel.app-2563eb?style=flat-square&labelColor=0b0b0c" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/rennyt98"><img src="https://img.shields.io/badge/LINKEDIN-rennyt98-0b0b0c?style=flat-square&labelColor=2563eb" alt="LinkedIn" /></a>
+  <a href="mailto:rennythomas98@gmail.com"><img src="https://img.shields.io/badge/EMAIL-rennythomas98%40gmail.com-0b0b0c?style=flat-square&labelColor=2563eb" alt="Email" /></a>
 </p>
 
----
+## About
 
-## 👋 About me
+Gen AI Engineer from **Thiruvananthapuram, Kerala**, finishing a B.Tech in Information Technology at Amal Jyothi College of Engineering (2022–2026). Open to **Gen AI roles and freelance work**.
 
-Gen AI Engineer from **Thiruvananthapuram, Kerala**, finishing a B.Tech in Information Technology at Amal Jyothi College of Engineering (2022–2026).
+- **VoiceStack (CareStack):** built an AI configuration assistant with Claude and LangGraph, OpenAPI tool integration, MCP servers, human-in-the-loop approvals, SSE streaming and Langfuse tracing.
+- **CareStack:** built a voice-bot testing platform with chat-based simulation and GPT-based evaluation of bot responses.
+- **Nilgiri Stores:** cloud deployment on Hetzner (Apache, HTTPS) and an SQL-grounded AI chatbot.
+- **Final-year project:** PM2.5 prediction from satellite data using Random Forest (R² 0.894 on the test set).
 
-- 🤖 Most recently built an **AI configuration assistant at VoiceStack (CareStack)**: agentic workflows with Claude and LangGraph, OpenAPI tool integration, MCP servers, human-in-the-loop approvals, SSE streaming and Langfuse tracing.
-- 🧪 Before that, built a **voice-bot testing platform at CareStack**, with chat-based simulation and GPT-based evaluation of bot responses.
-- ☁️ Cloud and backend: Hetzner, Apache, HTTPS with Let's Encrypt, and an SQL-grounded AI chatbot at Nilgiri Stores.
-- 🛰️ Final-year project: predicting **PM2.5 from satellite data** with Random Forest (R² 0.894 on the test set).
-- 💼 Open to **Gen AI roles and freelance work**.
+## Stack
 
----
+![LangGraph](https://img.shields.io/badge/LangGraph-0b0b0c?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-0b0b0c?style=flat-square)
+![Claude SDK](https://img.shields.io/badge/Claude_SDK-2563eb?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-2563eb?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-0b0b0c?style=flat-square)
+![Langfuse](https://img.shields.io/badge/Langfuse-0b0b0c?style=flat-square)
+![Python](https://img.shields.io/badge/Python-0b0b0c?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0b0b0c?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0b0b0c?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0b0b0c?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-0b0b0c?style=flat-square&logo=flask&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0b0b0c?style=flat-square&logo=scikitlearn&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0b0b0c?style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-0b0b0c?style=flat-square&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-0b0b0c?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-0b0b0c?style=flat-square&logo=nextdotjs&logoColor=white)
 
-## 🛠️ Tech stack
+## Projects
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,nodejs,fastapi,flask,react,flutter,mongodb,mysql,aws,linux,git,github,postman,vercel,nextjs,tailwind&perline=9" alt="Tech stack icons" />
-</p>
+| | Project | Stack |
+| :-: | --- | --- |
+| 01 | [PM2.5 from satellite data](https://renny-thomas.vercel.app/work/pm25-satellite-machine-learning) | Python, Scikit-learn |
+| 02 | [AI configuration assistant (VoiceStack)](https://renny-thomas.vercel.app/work/ai-configuration-assistant-voicestack) | Claude, LangGraph, MCP |
+| 03 | [Voice-bot testing platform (CareStack)](https://renny-thomas.vercel.app/work/voice-bot-testing-platform-carestack) | LLM evals, Langfuse |
+| 04 | [AI Phone Advisor (AIPA)](https://renny-thomas.vercel.app/work/ai-phone-advisor-aipa) | RAG, FAISS |
+| 05 | [AI research agent](https://renny-thomas.vercel.app/work/ai-research-agent-tavily-deepseek) | Tavily, DeepSeek |
+| 06 | [Scraping pipeline](https://renny-thomas.vercel.app/work/web-scraping-pipeline-scrapy) | Scrapy |
 
-**AI & agents:** LangGraph · LangChain · Claude SDK · MCP servers · Tool calling · RAG · OpenAI API · DeepSeek · Prompt engineering · LLM evaluation · Langfuse
-**ML & data:** Scikit-learn · Random Forest · Pandas · NumPy · Feature engineering · Scrapy
-**Retrieval:** FAISS · Vector databases · SQL · MongoDB
+Animated case studies for all 10 projects are on the **[portfolio](https://renny-thomas.vercel.app)**.
 
----
-
-## 🚀 Featured projects
-
-| Project | What it does | Stack |
-| --- | --- | --- |
-| **[AI Configuration Assistant (VoiceStack)](https://renny-thomas.vercel.app/work/ai-configuration-assistant-voicestack)** | Natural-language configuration of an enterprise phone system through an agent | Claude, LangGraph, MCP, Node.js, TypeScript |
-| **[Voice-Bot Testing Platform (CareStack)](https://renny-thomas.vercel.app/work/voice-bot-testing-platform-carestack)** | Chat-based voice-bot testing with GPT-based scoring | LLM evals, Langfuse |
-| **[PM2.5 Satellite ML](https://renny-thomas.vercel.app/work/pm25-satellite-machine-learning)** | Final-year project predicting air quality from satellite data | Python, Scikit-learn |
-| **[AI Phone Advisor (AIPA)](https://renny-thomas.vercel.app/work/ai-phone-advisor-aipa)** | RAG-based phone recommendation assistant | RAG, FAISS |
-| **[AI Research Agent](https://renny-thomas.vercel.app/work/ai-research-agent-tavily-deepseek)** | Web-search research agent | Tavily, DeepSeek |
-| **[Scraping Pipeline](https://renny-thomas.vercel.app/work/web-scraping-pipeline-scrapy)** | Structured data extraction at scale | Scrapy |
-
-👉 All case studies with animated diagrams: **[renny-thomas.vercel.app](https://renny-thomas.vercel.app)**
-
----
-
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hackmanx&show_icons=true&hide_border=true&bg_color=f6f5f0&title_color=2563eb&icon_color=2563eb&text_color=0b0b0c" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackmanx&layout=compact&hide_border=true&bg_color=f6f5f0&title_color=2563eb&text_color=0b0b0c" alt="Top languages" />
-</p>
+## Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hackmanx&hide_border=true&background=f6f5f0&ring=2563eb&fire=2563eb&currStreakLabel=0b0b0c" alt="GitHub streak" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2563eb,100:0b0b0c&section=footer" alt="Footer wave" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hackmanx&show_icons=true&hide_border=false&border_color=0b0b0c&bg_color=f6f5f0&title_color=2563eb&icon_color=2563eb&text_color=0b0b0c" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackmanx&layout=compact&hide_border=false&border_color=0b0b0c&bg_color=f6f5f0&title_color=2563eb&text_color=0b0b0c" alt="Top languages" />
 </p>
